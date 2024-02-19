@@ -1,4 +1,2 @@
-This Project is regardinf Air Monitoring system
-
-Tech Stack: Android Studio(Java)
-ML(Python)
+# Air-Shark
+ This is a project about Air Quality monitoring app to get accurate data of Quality of the air in that particular area
